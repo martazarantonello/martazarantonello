@@ -4,7 +4,7 @@ Hi! I'm Marta Zarantonello, a postgraduate researcher at the **University of Gla
 
 My research focuses on **risk assessment of complex infrastructure networks**, particularly transportation systems, developing data-driven frameworks to support decision-makers in improving the efficiency, resilience, and reliability of critical infrastructure under disruption.
 
-Recently, I published **[rdmpy](https://martazarantonello.github.io/rdmpy/)** 🚂, a Python toolkit for analysing UK rail network incidents and delay propagation.
+Recently, I published **rdmpy** 🚂, a Python toolkit for analysing UK rail network incidents and delay propagation. If you'd like to read more about its full documentation, click **[here](https://martazarantonello.github.io/rdmpy/)**!
 
 
 ## 🌐 Socials:
